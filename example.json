@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "On My Way",
+        "cover": "On My Way",
+        "artist": "Ghostrifter Official",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/lofi-music-dca02.appspot.com/o/On-My-Way-Lofi-Study-Music.mp3?alt=media&token=21787018-af03-4e86-a54f-dc00ed3ab450"
+    },
+    {
+        "id": 2,
+        "name": "Downtown Glow",
+        "cover": "Downtown Glow",
+        "artist": "Ghostrifter Official",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/lofi-music-dca02.appspot.com/o/Ghostrifter-Official-Devyzed-Downtown-Glow.mp3?alt=media&token=c58f2da1-e440-4bb9-bcf1-478c56af05b6"
+    },
+    {
+        "id": 3,
+        "name": "Subtle Break",
+        "cover": "Subtle Break",
+        "artist": "Ghostrifter Official",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/lofi-music-dca02.appspot.com/o/Ghostrifter-Official-Subtle-Break.mp3?alt=media&token=1da2033f-902c-4774-af10-8e03a7646dfe"
+    },
+    {
+        "id": 4,
+        "name": "Sleepless",
+        "cover": "Sleepless",
+        "artist": "Purrple Cat",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/lofi-music-dca02.appspot.com/o/Sleepless.mp3?alt=media&token=ef345717-10a3-4b1f-89c2-7f428f96d7d6"
+    },
+    {
+        "id": 5,
+        "name": "Pillars Of Creation",
+        "cover": "Pillars Of Creation",
+        "artist": "Purrple Cat",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/lofi-music-dca02.appspot.com/o/Pillars-Of-Creation.mp3?alt=media&token=472a0654-2a8c-4f4c-9a53-a22604a10b65"
+    },
+    {
+        "id": 6,
+        "name": "Owlets",
+        "cover": "Owlets",
+        "artist": "Purrple Cat",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/lofi-music-dca02.appspot.com/o/Owlets.mp3?alt=media&token=fc1f5b05-56ae-45ab-931b-0ef2b8b9afb9"
+    },
+    {
+        "id": 7,
+        "name": "bedtime after a coffee",
+        "cover": "bedtime after a coffee",
+        "artist": "Barradeen",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/lofi-music-dca02.appspot.com/o/barradeen-bedtime-after-a-coffee.mp3?alt=media&token=fff2efc3-878d-4aae-a457-7bd857773cce"
+    }
+]
